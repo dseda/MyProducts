@@ -15,6 +15,7 @@ To use the last release of create-react-app, uninstall it globally. [See create-
 Then, create a new react app
 
 <code>npx create-react-app frontend</code>
+
 <code>cd frontend</code>
 
 ## 3. Install React Router
